@@ -1,0 +1,6 @@
+date,source,scope,unit,value,emission_factor
+2025-07-01,diesel,1,liter,500,2.67
+2025-07-02,electricity,2,kWh,1200,0.82
+2025-07-03,freight,3,ton-km,800,0.09
+2025-07-04,diesel,1,liter,450,2.67
+2025-07-05,electricity,2,kWh,1000,0.82
