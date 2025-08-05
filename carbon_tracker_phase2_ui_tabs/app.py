@@ -35,8 +35,13 @@ with tab1:
         log_event(username, 'upload', uploaded_emissions.name)
     else:
         st.info("Using sample emissions data")
-        with open("data/carbon_data.csv", "rb") as f:
-            emissions_df, scope_totals = calculate_emissions(f)
+        try:
+            with open("data/carbon_data.csv", "rb") as f:
+                emissions_df, scope_totals = calculate_emissions(f)
+        except FileNotFoundError:
+            st.error("Sample emissions data not found. Please upload a file.")
+            st.stop()
+
 
     st.metric("Total Emissions (tCO2e)", round(scope_totals["emissions"].sum(), 2))
     st.dataframe(emissions_df)
