@@ -1,0 +1,501 @@
+project_type,amount_tonnes,verification_standard,vintage_year,source,cost_usd,country
+Renewable Energy,372.38,Verified Carbon Standard,2023,Third-party,751.91,India
+Cookstove Distribution,272.86,Verified Carbon Standard,2023,Third-party,739.46,Kenya
+Blue Carbon,508.96,Verra,2024,Third-party,2483.23,USA
+Cookstove Distribution,671.3,Verified Carbon Standard,2023,Third-party,3245.11,Kenya
+Cookstove Distribution,112.54,Verified Carbon Standard,2024,In-house,405.65,USA
+Carbon Capture and Storage,847.41,ISO 14064-2,2019,Third-party,2508.07,Kenya
+Renewable Energy,453.46,Verified Carbon Standard,2022,Marketplace,1955.37,Brazil
+Soil Carbon Sequestration,189.01,Plan Vivo,2022,Marketplace,381.03,Brazil
+Cookstove Distribution,640.41,Verified Carbon Standard,2020,Third-party,848.52,Indonesia
+Biochar,519.77,Carbon Plan,2024,In-house,1879.91,India
+Afforestation,807.59,Gold Standard,2020,Marketplace,3898.75,Germany
+Biochar,626.19,Carbon Plan,2022,In-house,907.03,Germany
+Methane Capture,172.29,Gold Standard,2022,Third-party,402.11,Kenya
+Renewable Energy,520.29,Verified Carbon Standard,2022,In-house,1279.97,Kenya
+Carbon Capture and Storage,853.81,ISO 14064-2,2022,Third-party,553.13,Germany
+Afforestation,583.22,Gold Standard,2024,Marketplace,2530.58,USA
+Blue Carbon,901.19,Verra,2021,Marketplace,3337.06,Brazil
+Blue Carbon,313.96,Verra,2021,In-house,891.55,Germany
+Blue Carbon,788.72,Verra,2020,Third-party,3371.2,India
+Soil Carbon Sequestration,672.13,Plan Vivo,2022,In-house,1409.48,India
+Soil Carbon Sequestration,272.48,Plan Vivo,2021,In-house,685.05,Germany
+Cookstove Distribution,791.36,Verified Carbon Standard,2024,Marketplace,2519.76,India
+Soil Carbon Sequestration,693.0,Plan Vivo,2019,Marketplace,2024.81,Indonesia
+Carbon Capture and Storage,789.84,ISO 14064-2,2019,Marketplace,1053.23,Indonesia
+Biochar,891.42,Carbon Plan,2024,In-house,2835.28,India
+Methane Capture,818.96,Gold Standard,2019,Third-party,3327.54,Brazil
+Carbon Capture and Storage,277.33,ISO 14064-2,2023,Marketplace,1378.24,India
+Biochar,643.14,Carbon Plan,2019,Marketplace,777.43,Brazil
+Biochar,262.72,Carbon Plan,2019,Third-party,434.83,Kenya
+Biochar,689.69,Carbon Plan,2020,Third-party,2987.05,USA
+Renewable Energy,615.53,Verified Carbon Standard,2019,In-house,1798.9,Indonesia
+Carbon Capture and Storage,332.25,ISO 14064-2,2021,Marketplace,174.57,India
+Cookstove Distribution,165.36,Verified Carbon Standard,2020,In-house,721.33,Brazil
+Renewable Energy,21.88,Verified Carbon Standard,2021,In-house,105.27,USA
+Biochar,20.3,Carbon Plan,2019,In-house,63.32,India
+Methane Capture,803.58,Gold Standard,2020,Third-party,2630.5,USA
+Cookstove Distribution,634.37,Verified Carbon Standard,2021,Third-party,2008.64,Kenya
+Afforestation,16.82,Gold Standard,2019,In-house,36.16,USA
+Biochar,396.91,Carbon Plan,2019,Marketplace,384.69,Indonesia
+Methane Capture,349.01,Gold Standard,2020,Third-party,715.7,Indonesia
+Methane Capture,871.65,Gold Standard,2022,Marketplace,521.1,India
+Afforestation,230.6,Gold Standard,2021,Marketplace,948.95,Germany
+Afforestation,929.15,Gold Standard,2022,In-house,982.9,Indonesia
+Soil Carbon Sequestration,993.61,Plan Vivo,2024,Third-party,3247.26,USA
+Soil Carbon Sequestration,192.31,Plan Vivo,2021,Third-party,101.06,India
+Soil Carbon Sequestration,877.22,Plan Vivo,2023,Marketplace,2390.15,USA
+Blue Carbon,978.5,Verra,2019,Third-party,652.88,Brazil
+Carbon Capture and Storage,87.05,ISO 14064-2,2021,Marketplace,200.81,Indonesia
+Methane Capture,199.42,Gold Standard,2020,Marketplace,884.8,Germany
+Methane Capture,102.12,Gold Standard,2024,Marketplace,55.4,Kenya
+Blue Carbon,30.23,Verra,2022,Third-party,127.67,Indonesia
+Soil Carbon Sequestration,132.6,Plan Vivo,2020,Marketplace,169.96,India
+Afforestation,533.45,Gold Standard,2019,Marketplace,2299.29,Indonesia
+Soil Carbon Sequestration,939.3,Plan Vivo,2020,In-house,3808.97,Indonesia
+Cookstove Distribution,486.72,Verified Carbon Standard,2020,In-house,601.98,USA
+Renewable Energy,241.04,Verified Carbon Standard,2020,Third-party,406.97,Germany
+Carbon Capture and Storage,610.46,ISO 14064-2,2021,Marketplace,1992.25,Brazil
+Blue Carbon,298.3,Verra,2020,Third-party,1385.51,India
+Cookstove Distribution,106.2,Verified Carbon Standard,2023,Third-party,330.92,India
+Afforestation,316.44,Gold Standard,2019,In-house,1486.22,Germany
+Methane Capture,783.87,Gold Standard,2024,In-house,3539.3,Kenya
+Soil Carbon Sequestration,679.12,Plan Vivo,2020,Marketplace,1269.09,Germany
+Soil Carbon Sequestration,646.56,Plan Vivo,2024,In-house,585.41,India
+Soil Carbon Sequestration,891.99,Plan Vivo,2024,Marketplace,3049.55,USA
+Blue Carbon,375.71,Verra,2021,Marketplace,1299.66,Brazil
+Renewable Energy,475.79,Verified Carbon Standard,2022,In-house,1860.31,Kenya
+Afforestation,854.53,Gold Standard,2024,Marketplace,500.31,Germany
+Soil Carbon Sequestration,441.65,Plan Vivo,2022,In-house,269.88,USA
+Afforestation,455.27,Gold Standard,2024,In-house,333.14,Germany
+Cookstove Distribution,589.35,Verified Carbon Standard,2020,In-house,780.4,Germany
+Biochar,236.3,Carbon Plan,2020,Third-party,887.42,Germany
+Biochar,225.36,Carbon Plan,2023,Third-party,166.22,Germany
+Blue Carbon,809.56,Verra,2019,Marketplace,895.29,Indonesia
+Cookstove Distribution,251.29,Verified Carbon Standard,2020,In-house,492.51,India
+Afforestation,358.94,Gold Standard,2021,In-house,1392.31,India
+Blue Carbon,831.04,Verra,2024,In-house,1843.66,Kenya
+Renewable Energy,15.67,Verified Carbon Standard,2022,Marketplace,63.53,Indonesia
+Carbon Capture and Storage,985.32,ISO 14064-2,2023,Marketplace,880.47,Germany
+Blue Carbon,357.63,Verra,2021,In-house,796.63,Indonesia
+Blue Carbon,990.49,Verra,2020,Third-party,3870.48,Kenya
+Soil Carbon Sequestration,646.58,Plan Vivo,2021,Marketplace,430.22,USA
+Afforestation,500.7,Gold Standard,2023,Marketplace,1528.66,Germany
+Afforestation,662.71,Gold Standard,2020,Third-party,1438.95,India
+Biochar,508.91,Carbon Plan,2021,Marketplace,1411.15,USA
+Blue Carbon,549.89,Verra,2021,Marketplace,1073.33,India
+Biochar,324.68,Carbon Plan,2024,Third-party,961.22,India
+Methane Capture,496.07,Gold Standard,2022,Third-party,413.4,Germany
+Carbon Capture and Storage,890.58,ISO 14064-2,2021,In-house,2320.48,India
+Methane Capture,133.91,Gold Standard,2019,Third-party,388.26,Brazil
+Blue Carbon,406.65,Verra,2021,Marketplace,1352.46,Indonesia
+Biochar,711.04,Carbon Plan,2020,Third-party,2135.14,Kenya
+Afforestation,48.09,Gold Standard,2019,Marketplace,140.05,Germany
+Methane Capture,231.48,Gold Standard,2020,In-house,644.61,Germany
+Cookstove Distribution,486.66,Verified Carbon Standard,2023,Marketplace,2310.16,India
+Cookstove Distribution,451.83,Verified Carbon Standard,2021,In-house,919.09,Indonesia
+Renewable Energy,373.71,Verified Carbon Standard,2022,Marketplace,312.44,Brazil
+Soil Carbon Sequestration,489.73,Plan Vivo,2020,Marketplace,1319.15,Indonesia
+Methane Capture,327.7,Gold Standard,2021,In-house,791.79,Indonesia
+Renewable Energy,270.52,Verified Carbon Standard,2021,In-house,641.4,Germany
+Blue Carbon,138.09,Verra,2022,In-house,137.09,Kenya
+Cookstove Distribution,182.23,Verified Carbon Standard,2020,Marketplace,118.45,USA
+Afforestation,861.37,Gold Standard,2021,Third-party,1885.09,Brazil
+Biochar,738.92,Carbon Plan,2023,In-house,3236.82,India
+Afforestation,305.71,Gold Standard,2021,Third-party,467.53,Indonesia
+Biochar,190.62,Carbon Plan,2021,Marketplace,434.21,Germany
+Blue Carbon,457.08,Verra,2023,Third-party,310.69,Kenya
+Carbon Capture and Storage,591.34,ISO 14064-2,2024,In-house,1214.35,USA
+Carbon Capture and Storage,537.47,ISO 14064-2,2021,Marketplace,2666.55,India
+Methane Capture,802.12,Gold Standard,2019,In-house,3323.08,Indonesia
+Biochar,45.43,Carbon Plan,2019,In-house,138.91,USA
+Afforestation,522.02,Gold Standard,2019,In-house,2017.61,India
+Blue Carbon,442.52,Verra,2021,In-house,632.05,Brazil
+Afforestation,417.11,Gold Standard,2021,Marketplace,888.56,Brazil
+Methane Capture,284.43,Gold Standard,2024,In-house,873.13,Brazil
+Cookstove Distribution,60.98,Verified Carbon Standard,2021,Third-party,255.33,India
+Methane Capture,182.74,Gold Standard,2024,Third-party,794.99,Germany
+Cookstove Distribution,705.31,Verified Carbon Standard,2019,Marketplace,2158.64,Germany
+Biochar,14.76,Carbon Plan,2023,Marketplace,13.94,India
+Blue Carbon,598.42,Verra,2019,Third-party,594.07,Kenya
+Soil Carbon Sequestration,973.77,Plan Vivo,2020,In-house,1467.27,Germany
+Afforestation,824.33,Gold Standard,2020,In-house,2554.7,Brazil
+Soil Carbon Sequestration,461.35,Plan Vivo,2019,Marketplace,1734.1,Indonesia
+Carbon Capture and Storage,153.55,ISO 14064-2,2024,Marketplace,630.9,Indonesia
+Carbon Capture and Storage,196.94,ISO 14064-2,2022,Third-party,577.79,Germany
+Methane Capture,411.27,Gold Standard,2024,Third-party,1629.02,Indonesia
+Biochar,473.36,Carbon Plan,2024,Third-party,2357.1,Indonesia
+Afforestation,772.08,Gold Standard,2019,Third-party,2685.53,Brazil
+Afforestation,350.56,Gold Standard,2023,Marketplace,533.96,Brazil
+Afforestation,567.91,Gold Standard,2019,In-house,2786.66,Brazil
+Cookstove Distribution,574.62,Verified Carbon Standard,2020,In-house,2635.52,Kenya
+Soil Carbon Sequestration,75.79,Plan Vivo,2020,Third-party,205.12,Germany
+Renewable Energy,448.7,Verified Carbon Standard,2020,Third-party,1573.42,India
+Methane Capture,500.68,Gold Standard,2023,Third-party,723.7,Germany
+Soil Carbon Sequestration,689.78,Plan Vivo,2020,Third-party,556.71,Kenya
+Blue Carbon,219.02,Verra,2024,In-house,817.77,India
+Biochar,750.6,Carbon Plan,2024,Marketplace,3703.45,India
+Cookstove Distribution,713.39,Verified Carbon Standard,2023,Third-party,540.73,Kenya
+Renewable Energy,955.14,Verified Carbon Standard,2023,Marketplace,2858.62,India
+Cookstove Distribution,705.1,Verified Carbon Standard,2022,In-house,1811.07,Kenya
+Blue Carbon,313.92,Verra,2024,Marketplace,1228.8,Indonesia
+Afforestation,240.21,Gold Standard,2024,Third-party,605.13,USA
+Cookstove Distribution,27.21,Verified Carbon Standard,2021,Third-party,113.69,Indonesia
+Renewable Energy,178.04,Verified Carbon Standard,2021,In-house,108.99,India
+Cookstove Distribution,895.42,Verified Carbon Standard,2024,Marketplace,1575.89,Kenya
+Renewable Energy,695.15,Verified Carbon Standard,2023,Third-party,1766.3,Kenya
+Afforestation,440.9,Gold Standard,2023,In-house,2043.53,Brazil
+Cookstove Distribution,453.26,Verified Carbon Standard,2021,Marketplace,405.49,Germany
+Blue Carbon,877.49,Verra,2021,Third-party,4042.07,India
+Soil Carbon Sequestration,498.03,Plan Vivo,2023,In-house,736.27,Brazil
+Renewable Energy,430.71,Verified Carbon Standard,2024,Third-party,1731.43,USA
+Soil Carbon Sequestration,466.19,Plan Vivo,2022,Third-party,1292.84,Indonesia
+Afforestation,260.63,Gold Standard,2023,Third-party,581.55,India
+Afforestation,460.71,Gold Standard,2021,In-house,517.67,Germany
+Cookstove Distribution,328.94,Verified Carbon Standard,2020,In-house,965.66,India
+Methane Capture,936.2,Gold Standard,2024,Marketplace,3310.06,Kenya
+Biochar,714.41,Carbon Plan,2022,In-house,2743.73,Brazil
+Methane Capture,865.77,Gold Standard,2021,Third-party,3881.61,USA
+Blue Carbon,987.03,Verra,2022,Third-party,2033.7,USA
+Methane Capture,433.45,Gold Standard,2021,In-house,987.39,Kenya
+Soil Carbon Sequestration,334.32,Plan Vivo,2022,Third-party,1180.29,Kenya
+Renewable Energy,709.34,Verified Carbon Standard,2022,Marketplace,2814.8,Kenya
+Cookstove Distribution,951.04,Verified Carbon Standard,2024,Third-party,906.57,Kenya
+Cookstove Distribution,91.48,Verified Carbon Standard,2021,Third-party,243.37,Kenya
+Renewable Energy,584.95,Verified Carbon Standard,2023,In-house,1474.72,Brazil
+Soil Carbon Sequestration,989.01,Plan Vivo,2019,Marketplace,2401.26,Germany
+Biochar,468.69,Carbon Plan,2024,Marketplace,1536.78,Indonesia
+Methane Capture,835.03,Gold Standard,2019,In-house,2517.19,USA
+Methane Capture,428.94,Gold Standard,2022,In-house,867.08,Germany
+Afforestation,395.71,Gold Standard,2024,Third-party,233.78,Brazil
+Renewable Energy,30.68,Verified Carbon Standard,2022,In-house,43.09,Brazil
+Biochar,147.56,Carbon Plan,2024,In-house,397.7,Germany
+Afforestation,507.56,Gold Standard,2024,Marketplace,308.76,Germany
+Carbon Capture and Storage,91.68,ISO 14064-2,2019,In-house,385.62,India
+Soil Carbon Sequestration,448.18,Plan Vivo,2020,Marketplace,834.0,India
+Afforestation,299.56,Gold Standard,2024,Marketplace,971.21,Germany
+Afforestation,683.74,Gold Standard,2021,Marketplace,3225.15,Germany
+Renewable Energy,535.92,Verified Carbon Standard,2019,Third-party,812.54,Kenya
+Methane Capture,648.52,Gold Standard,2019,Marketplace,2707.26,Kenya
+Blue Carbon,508.03,Verra,2024,In-house,1871.41,USA
+Biochar,930.72,Carbon Plan,2020,Marketplace,1042.8,USA
+Biochar,292.61,Carbon Plan,2023,In-house,438.23,USA
+Blue Carbon,197.21,Verra,2021,Marketplace,658.13,Indonesia
+Cookstove Distribution,724.43,Verified Carbon Standard,2019,In-house,3318.08,USA
+Carbon Capture and Storage,941.55,ISO 14064-2,2020,Third-party,480.63,India
+Carbon Capture and Storage,362.78,ISO 14064-2,2024,In-house,1777.77,India
+Soil Carbon Sequestration,252.44,Plan Vivo,2024,Third-party,901.51,Brazil
+Blue Carbon,53.96,Verra,2022,Third-party,255.58,India
+Carbon Capture and Storage,723.48,ISO 14064-2,2023,In-house,2091.82,India
+Carbon Capture and Storage,480.62,ISO 14064-2,2020,Marketplace,374.92,Germany
+Carbon Capture and Storage,530.47,ISO 14064-2,2019,Third-party,976.58,Germany
+Cookstove Distribution,697.74,Verified Carbon Standard,2024,Marketplace,3026.31,India
+Renewable Energy,462.73,Verified Carbon Standard,2020,Third-party,1006.15,Kenya
+Soil Carbon Sequestration,142.13,Plan Vivo,2022,In-house,417.37,USA
+Soil Carbon Sequestration,49.53,Plan Vivo,2022,In-house,184.6,Brazil
+Carbon Capture and Storage,567.93,ISO 14064-2,2020,In-house,535.31,Brazil
+Methane Capture,442.51,Gold Standard,2021,Marketplace,2161.35,Kenya
+Soil Carbon Sequestration,653.68,Plan Vivo,2024,In-house,1983.24,India
+Methane Capture,556.91,Gold Standard,2023,In-house,2454.15,India
+Cookstove Distribution,956.78,Verified Carbon Standard,2024,Marketplace,2565.87,Germany
+Carbon Capture and Storage,531.08,ISO 14064-2,2023,In-house,1728.35,Kenya
+Soil Carbon Sequestration,906.23,Plan Vivo,2021,In-house,883.96,USA
+Methane Capture,881.0,Gold Standard,2022,In-house,4203.23,Indonesia
+Afforestation,904.56,Gold Standard,2022,Third-party,2667.67,Indonesia
+Carbon Capture and Storage,672.15,ISO 14064-2,2021,Third-party,2706.08,India
+Soil Carbon Sequestration,724.7,Plan Vivo,2019,Marketplace,1043.82,Indonesia
+Cookstove Distribution,897.95,Verified Carbon Standard,2023,Marketplace,1978.17,Indonesia
+Afforestation,940.7,Gold Standard,2024,In-house,2352.38,India
+Blue Carbon,850.01,Verra,2020,Marketplace,2052.2,Germany
+Biochar,268.19,Carbon Plan,2024,Marketplace,295.54,Indonesia
+Cookstove Distribution,970.51,Verified Carbon Standard,2021,Marketplace,941.55,USA
+Biochar,475.44,Carbon Plan,2024,Marketplace,755.49,Kenya
+Renewable Energy,832.39,Verified Carbon Standard,2023,Marketplace,3931.55,Germany
+Blue Carbon,210.4,Verra,2021,Third-party,328.59,Germany
+Blue Carbon,927.67,Verra,2021,In-house,4556.91,Indonesia
+Carbon Capture and Storage,746.61,ISO 14064-2,2022,In-house,400.03,Kenya
+Carbon Capture and Storage,192.82,ISO 14064-2,2023,Marketplace,256.67,Germany
+Cookstove Distribution,844.98,Verified Carbon Standard,2023,Third-party,4114.46,India
+Soil Carbon Sequestration,968.66,Plan Vivo,2019,Marketplace,517.27,India
+Carbon Capture and Storage,320.76,ISO 14064-2,2024,Marketplace,543.83,Indonesia
+Afforestation,309.59,Gold Standard,2019,Marketplace,1339.16,Germany
+Renewable Energy,464.62,Verified Carbon Standard,2019,Third-party,1355.9,Germany
+Afforestation,37.74,Gold Standard,2020,Third-party,154.65,Indonesia
+Carbon Capture and Storage,472.57,ISO 14064-2,2022,Marketplace,2176.01,India
+Afforestation,82.82,Gold Standard,2023,Third-party,319.68,USA
+Carbon Capture and Storage,301.31,ISO 14064-2,2020,In-house,534.19,Germany
+Methane Capture,462.04,Gold Standard,2019,Third-party,1724.36,Kenya
+Blue Carbon,800.92,Verra,2023,Marketplace,1747.31,USA
+Soil Carbon Sequestration,199.64,Plan Vivo,2023,Marketplace,507.38,USA
+Renewable Energy,171.9,Verified Carbon Standard,2021,Marketplace,668.33,India
+Afforestation,458.53,Gold Standard,2020,In-house,1237.07,USA
+Cookstove Distribution,254.94,Verified Carbon Standard,2019,Marketplace,571.46,Germany
+Blue Carbon,906.44,Verra,2019,In-house,635.66,Indonesia
+Soil Carbon Sequestration,512.82,Plan Vivo,2020,Third-party,2052.32,Indonesia
+Afforestation,749.3,Gold Standard,2024,In-house,960.48,USA
+Carbon Capture and Storage,434.7,ISO 14064-2,2024,Third-party,2080.58,Germany
+Carbon Capture and Storage,793.86,ISO 14064-2,2023,Third-party,848.01,USA
+Soil Carbon Sequestration,505.37,Plan Vivo,2024,Marketplace,1264.3,USA
+Renewable Energy,652.35,Verified Carbon Standard,2024,Marketplace,540.75,Germany
+Soil Carbon Sequestration,654.77,Plan Vivo,2022,Marketplace,3250.37,Germany
+Biochar,315.48,Carbon Plan,2024,In-house,214.26,Germany
+Biochar,677.83,Carbon Plan,2021,Third-party,3319.28,Kenya
+Afforestation,628.76,Gold Standard,2023,In-house,1375.39,USA
+Methane Capture,458.33,Gold Standard,2019,Third-party,1524.08,Brazil
+Biochar,195.22,Carbon Plan,2023,Marketplace,388.56,Brazil
+Blue Carbon,353.1,Verra,2024,Third-party,1655.89,Brazil
+Blue Carbon,371.64,Verra,2021,Third-party,402.48,Kenya
+Blue Carbon,955.89,Verra,2019,Marketplace,4238.1,USA
+Methane Capture,403.14,Gold Standard,2020,Third-party,1719.89,India
+Blue Carbon,409.62,Verra,2022,Marketplace,296.37,Kenya
+Biochar,845.6,Carbon Plan,2021,Marketplace,2983.87,India
+Methane Capture,862.62,Gold Standard,2021,Marketplace,2225.31,India
+Renewable Energy,763.34,Verified Carbon Standard,2019,In-house,1080.44,Brazil
+Biochar,667.82,Carbon Plan,2024,Marketplace,354.39,India
+Methane Capture,575.9,Gold Standard,2024,In-house,2240.11,Germany
+Blue Carbon,898.98,Verra,2020,Marketplace,1698.89,Germany
+Renewable Energy,53.36,Verified Carbon Standard,2022,Marketplace,71.83,Indonesia
+Biochar,167.27,Carbon Plan,2019,In-house,815.1,Indonesia
+Renewable Energy,708.79,Verified Carbon Standard,2022,In-house,970.56,Kenya
+Blue Carbon,309.21,Verra,2023,In-house,803.84,USA
+Renewable Energy,733.12,Verified Carbon Standard,2023,In-house,2375.29,Indonesia
+Renewable Energy,141.89,Verified Carbon Standard,2024,Third-party,288.02,Brazil
+Blue Carbon,570.29,Verra,2024,In-house,482.12,USA
+Blue Carbon,398.4,Verra,2021,Third-party,1948.45,Indonesia
+Carbon Capture and Storage,291.0,ISO 14064-2,2024,In-house,1263.84,Kenya
+Biochar,992.49,Carbon Plan,2021,Marketplace,2454.07,Kenya
+Carbon Capture and Storage,343.96,ISO 14064-2,2021,Marketplace,835.02,Brazil
+Cookstove Distribution,697.04,Verified Carbon Standard,2023,Third-party,2727.04,Kenya
+Soil Carbon Sequestration,873.42,Plan Vivo,2024,Third-party,3995.91,Brazil
+Soil Carbon Sequestration,601.23,Plan Vivo,2021,Third-party,1536.66,Indonesia
+Soil Carbon Sequestration,541.09,Plan Vivo,2023,In-house,1617.31,Brazil
+Carbon Capture and Storage,105.99,ISO 14064-2,2020,In-house,291.02,Indonesia
+Afforestation,931.73,Gold Standard,2021,Third-party,1134.4,Kenya
+Afforestation,396.96,Gold Standard,2022,Marketplace,1058.0,Indonesia
+Renewable Energy,983.58,Verified Carbon Standard,2024,Third-party,2566.17,Brazil
+Methane Capture,373.13,Gold Standard,2021,In-house,441.23,Brazil
+Afforestation,682.35,Gold Standard,2019,Third-party,572.85,Kenya
+Renewable Energy,478.01,Verified Carbon Standard,2021,In-house,849.62,India
+Cookstove Distribution,933.64,Verified Carbon Standard,2023,Third-party,1188.18,Germany
+Renewable Energy,498.87,Verified Carbon Standard,2022,Third-party,2080.49,Germany
+Soil Carbon Sequestration,109.29,Plan Vivo,2020,In-house,452.94,Indonesia
+Methane Capture,337.31,Gold Standard,2020,Marketplace,313.93,India
+Blue Carbon,415.43,Verra,2021,Third-party,1476.72,Indonesia
+Afforestation,977.54,Gold Standard,2021,Marketplace,1749.09,Indonesia
+Soil Carbon Sequestration,245.41,Plan Vivo,2022,Marketplace,1107.44,USA
+Carbon Capture and Storage,353.98,ISO 14064-2,2023,Third-party,1756.97,India
+Cookstove Distribution,596.0,Verified Carbon Standard,2023,In-house,1727.21,Kenya
+Carbon Capture and Storage,576.2,ISO 14064-2,2020,Marketplace,1537.06,Kenya
+Methane Capture,412.86,Gold Standard,2021,Third-party,995.44,USA
+Cookstove Distribution,363.34,Verified Carbon Standard,2023,Third-party,648.88,Germany
+Renewable Energy,710.86,Verified Carbon Standard,2020,Marketplace,1470.15,India
+Renewable Energy,369.05,Verified Carbon Standard,2022,Third-party,1729.45,Brazil
+Carbon Capture and Storage,69.22,ISO 14064-2,2022,Third-party,337.18,Brazil
+Blue Carbon,152.57,Verra,2022,In-house,180.67,Germany
+Renewable Energy,198.93,Verified Carbon Standard,2019,Third-party,263.56,Indonesia
+Afforestation,495.75,Gold Standard,2023,In-house,538.61,USA
+Carbon Capture and Storage,589.27,ISO 14064-2,2021,Third-party,2025.72,Indonesia
+Renewable Energy,228.95,Verified Carbon Standard,2021,In-house,1103.19,Kenya
+Afforestation,948.07,Gold Standard,2021,Marketplace,683.63,USA
+Biochar,593.6,Carbon Plan,2020,In-house,2663.77,Indonesia
+Soil Carbon Sequestration,33.7,Plan Vivo,2021,In-house,119.98,Kenya
+Carbon Capture and Storage,758.44,ISO 14064-2,2020,Third-party,2221.42,Germany
+Methane Capture,719.67,Gold Standard,2024,Marketplace,1712.61,USA
+Afforestation,130.95,Gold Standard,2022,Marketplace,401.07,India
+Afforestation,503.75,Gold Standard,2022,Marketplace,411.09,USA
+Biochar,188.09,Carbon Plan,2022,In-house,545.14,Brazil
+Soil Carbon Sequestration,550.42,Plan Vivo,2019,Marketplace,900.16,USA
+Renewable Energy,337.61,Verified Carbon Standard,2021,Marketplace,526.9,Kenya
+Cookstove Distribution,217.81,Verified Carbon Standard,2023,Third-party,627.8,USA
+Blue Carbon,51.2,Verra,2020,In-house,96.0,Germany
+Afforestation,877.97,Gold Standard,2021,Third-party,481.67,Kenya
+Carbon Capture and Storage,544.66,ISO 14064-2,2023,In-house,1593.97,Brazil
+Cookstove Distribution,802.48,Verified Carbon Standard,2024,In-house,3540.04,India
+Methane Capture,76.0,Gold Standard,2023,In-house,113.9,Indonesia
+Cookstove Distribution,889.52,Verified Carbon Standard,2020,Marketplace,2175.85,Kenya
+Renewable Energy,772.27,Verified Carbon Standard,2021,Third-party,3653.91,Indonesia
+Afforestation,968.84,Gold Standard,2023,In-house,638.47,Indonesia
+Cookstove Distribution,749.78,Verified Carbon Standard,2023,Marketplace,3197.16,USA
+Carbon Capture and Storage,594.81,ISO 14064-2,2024,Third-party,504.17,Kenya
+Methane Capture,48.06,Gold Standard,2022,In-house,179.58,Indonesia
+Afforestation,227.86,Gold Standard,2020,Third-party,234.06,Indonesia
+Cookstove Distribution,608.06,Verified Carbon Standard,2023,Third-party,994.34,Brazil
+Cookstove Distribution,492.33,Verified Carbon Standard,2020,In-house,1259.26,Kenya
+Renewable Energy,873.44,Verified Carbon Standard,2019,Third-party,3692.21,Kenya
+Methane Capture,206.85,Gold Standard,2023,Marketplace,106.82,USA
+Biochar,810.65,Carbon Plan,2024,In-house,1397.13,Kenya
+Methane Capture,976.86,Gold Standard,2024,Marketplace,1044.66,Indonesia
+Blue Carbon,550.55,Verra,2020,In-house,1812.69,Indonesia
+Cookstove Distribution,960.68,Verified Carbon Standard,2021,In-house,2683.54,Germany
+Soil Carbon Sequestration,94.02,Plan Vivo,2024,In-house,92.2,Kenya
+Methane Capture,345.01,Gold Standard,2023,Marketplace,677.27,Indonesia
+Afforestation,495.44,Gold Standard,2022,Marketplace,1461.47,Indonesia
+Soil Carbon Sequestration,723.27,Plan Vivo,2023,Third-party,2011.02,Kenya
+Methane Capture,863.1,Gold Standard,2023,In-house,474.56,USA
+Carbon Capture and Storage,121.53,ISO 14064-2,2021,Third-party,503.4,Germany
+Biochar,761.78,Carbon Plan,2023,Marketplace,3103.43,Kenya
+Carbon Capture and Storage,445.41,ISO 14064-2,2023,Third-party,1368.4,USA
+Cookstove Distribution,243.99,Verified Carbon Standard,2019,In-house,1186.21,India
+Renewable Energy,375.13,Verified Carbon Standard,2022,In-house,267.99,Kenya
+Cookstove Distribution,187.81,Verified Carbon Standard,2023,Marketplace,854.27,Germany
+Blue Carbon,614.69,Verra,2021,In-house,435.56,Kenya
+Renewable Energy,402.17,Verified Carbon Standard,2023,Marketplace,2000.53,Indonesia
+Cookstove Distribution,327.07,Verified Carbon Standard,2022,Third-party,1437.51,Kenya
+Soil Carbon Sequestration,362.43,Plan Vivo,2021,Marketplace,833.01,Kenya
+Methane Capture,985.24,Gold Standard,2023,In-house,2797.0,India
+Methane Capture,756.67,Gold Standard,2023,In-house,2356.09,USA
+Afforestation,459.75,Gold Standard,2022,Marketplace,2168.98,India
+Renewable Energy,564.69,Verified Carbon Standard,2021,In-house,324.49,Indonesia
+Soil Carbon Sequestration,929.84,Plan Vivo,2022,Third-party,1241.15,Indonesia
+Methane Capture,974.52,Gold Standard,2024,In-house,2579.52,Germany
+Methane Capture,966.2,Gold Standard,2023,Third-party,3368.57,Indonesia
+Afforestation,924.34,Gold Standard,2022,Third-party,2769.41,India
+Methane Capture,631.92,Gold Standard,2022,Marketplace,2274.27,USA
+Biochar,382.35,Carbon Plan,2023,In-house,1830.61,USA
+Afforestation,611.24,Gold Standard,2023,In-house,944.43,India
+Cookstove Distribution,383.35,Verified Carbon Standard,2021,Third-party,1266.46,Germany
+Afforestation,400.51,Gold Standard,2022,Third-party,983.09,Kenya
+Carbon Capture and Storage,126.78,ISO 14064-2,2024,Marketplace,153.22,India
+Methane Capture,834.86,Gold Standard,2020,Third-party,2214.12,India
+Blue Carbon,696.37,Verra,2021,In-house,1753.34,Kenya
+Blue Carbon,66.12,Verra,2024,Third-party,80.48,Brazil
+Soil Carbon Sequestration,801.81,Plan Vivo,2023,Marketplace,2457.2,USA
+Methane Capture,960.6,Gold Standard,2020,Third-party,4399.47,USA
+Methane Capture,967.74,Gold Standard,2019,Third-party,2053.92,Kenya
+Renewable Energy,983.27,Verified Carbon Standard,2021,Third-party,1376.47,India
+Biochar,494.77,Carbon Plan,2023,In-house,565.1,Indonesia
+Cookstove Distribution,748.05,Verified Carbon Standard,2021,In-house,1001.12,Kenya
+Afforestation,816.33,Gold Standard,2024,Marketplace,3204.52,Brazil
+Carbon Capture and Storage,904.3,ISO 14064-2,2023,Third-party,717.33,Indonesia
+Renewable Energy,918.08,Verified Carbon Standard,2023,Marketplace,2682.82,Brazil
+Cookstove Distribution,209.22,Verified Carbon Standard,2023,Marketplace,314.31,Brazil
+Cookstove Distribution,261.15,Verified Carbon Standard,2021,Third-party,751.8,Germany
+Biochar,599.66,Carbon Plan,2022,Marketplace,1857.92,Brazil
+Biochar,528.73,Carbon Plan,2024,Marketplace,2563.78,India
+Carbon Capture and Storage,571.49,ISO 14064-2,2023,Marketplace,2351.81,Brazil
+Renewable Energy,951.76,Verified Carbon Standard,2024,Third-party,1322.86,Kenya
+Methane Capture,458.02,Gold Standard,2019,Third-party,1132.95,Germany
+Carbon Capture and Storage,306.89,ISO 14064-2,2021,Marketplace,429.51,India
+Carbon Capture and Storage,240.22,ISO 14064-2,2020,Marketplace,630.73,Indonesia
+Soil Carbon Sequestration,723.79,Plan Vivo,2020,Third-party,423.17,USA
+Soil Carbon Sequestration,746.51,Plan Vivo,2022,Marketplace,3361.88,India
+Soil Carbon Sequestration,682.79,Plan Vivo,2021,Third-party,779.49,Indonesia
+Cookstove Distribution,151.21,Verified Carbon Standard,2023,Marketplace,124.18,USA
+Biochar,875.05,Carbon Plan,2023,Marketplace,2859.56,Indonesia
+Blue Carbon,828.46,Verra,2022,In-house,2033.38,Kenya
+Renewable Energy,795.76,Verified Carbon Standard,2022,Marketplace,1364.67,Germany
+Methane Capture,150.63,Gold Standard,2020,In-house,522.38,India
+Afforestation,930.02,Gold Standard,2024,Marketplace,1001.96,USA
+Blue Carbon,921.96,Verra,2022,In-house,2230.96,USA
+Methane Capture,139.49,Gold Standard,2019,In-house,128.68,India
+Afforestation,571.33,Gold Standard,2024,In-house,570.35,Kenya
+Biochar,935.92,Carbon Plan,2019,In-house,3768.74,India
+Methane Capture,968.48,Gold Standard,2020,Marketplace,2998.9,USA
+Methane Capture,774.61,Gold Standard,2024,Third-party,2760.75,Germany
+Carbon Capture and Storage,275.75,ISO 14064-2,2022,Marketplace,733.67,Indonesia
+Methane Capture,59.7,Gold Standard,2024,In-house,185.88,Kenya
+Renewable Energy,638.25,Verified Carbon Standard,2020,Marketplace,3178.92,Kenya
+Carbon Capture and Storage,876.86,ISO 14064-2,2024,In-house,3173.29,Brazil
+Biochar,128.07,Carbon Plan,2020,Marketplace,593.8,USA
+Methane Capture,744.44,Gold Standard,2022,Marketplace,839.69,USA
+Afforestation,37.57,Gold Standard,2023,In-house,49.11,USA
+Soil Carbon Sequestration,375.98,Plan Vivo,2019,Third-party,1517.82,Indonesia
+Methane Capture,62.36,Gold Standard,2024,Third-party,308.17,USA
+Renewable Energy,207.96,Verified Carbon Standard,2019,Third-party,312.88,Indonesia
+Blue Carbon,796.86,Verra,2019,Marketplace,1817.74,Indonesia
+Soil Carbon Sequestration,183.31,Plan Vivo,2019,In-house,413.62,Indonesia
+Carbon Capture and Storage,253.52,ISO 14064-2,2021,Third-party,1205.32,Germany
+Cookstove Distribution,965.48,Verified Carbon Standard,2024,Third-party,2938.03,Germany
+Carbon Capture and Storage,326.43,ISO 14064-2,2020,Third-party,520.29,Indonesia
+Carbon Capture and Storage,851.63,ISO 14064-2,2024,Marketplace,2407.52,Germany
+Carbon Capture and Storage,706.5,ISO 14064-2,2023,Marketplace,1837.63,Brazil
+Biochar,470.75,Carbon Plan,2024,In-house,253.23,India
+Afforestation,662.02,Gold Standard,2021,Third-party,928.58,Kenya
+Biochar,206.5,Carbon Plan,2023,Marketplace,793.7,USA
+Carbon Capture and Storage,556.0,ISO 14064-2,2024,Marketplace,1733.46,USA
+Carbon Capture and Storage,368.92,ISO 14064-2,2019,In-house,1097.24,Indonesia
+Blue Carbon,540.86,Verra,2024,In-house,815.12,USA
+Methane Capture,886.99,Gold Standard,2019,Third-party,3627.91,India
+Afforestation,399.05,Gold Standard,2020,In-house,1345.89,Indonesia
+Methane Capture,496.92,Gold Standard,2023,Marketplace,1958.91,Indonesia
+Soil Carbon Sequestration,172.44,Plan Vivo,2020,Third-party,167.6,Indonesia
+Afforestation,377.06,Gold Standard,2021,Third-party,1750.67,USA
+Biochar,385.26,Carbon Plan,2024,Third-party,1854.59,Kenya
+Soil Carbon Sequestration,163.04,Plan Vivo,2022,Third-party,669.83,Indonesia
+Cookstove Distribution,282.68,Verified Carbon Standard,2021,Third-party,694.82,Brazil
+Methane Capture,466.78,Gold Standard,2022,In-house,2050.68,Indonesia
+Cookstove Distribution,576.34,Verified Carbon Standard,2020,In-house,686.35,Kenya
+Blue Carbon,459.93,Verra,2019,Third-party,1691.35,USA
+Blue Carbon,859.91,Verra,2023,Third-party,2623.96,Brazil
+Cookstove Distribution,77.83,Verified Carbon Standard,2023,Third-party,246.07,Germany
+Renewable Energy,515.97,Verified Carbon Standard,2024,Marketplace,2023.53,India
+Afforestation,816.66,Gold Standard,2022,In-house,3794.95,Brazil
+Methane Capture,989.13,Gold Standard,2024,In-house,1781.3,Indonesia
+Biochar,201.11,Carbon Plan,2019,Marketplace,901.12,Kenya
+Methane Capture,520.06,Gold Standard,2024,In-house,531.09,USA
+Soil Carbon Sequestration,893.55,Plan Vivo,2022,Third-party,634.13,Kenya
+Methane Capture,99.62,Gold Standard,2024,Third-party,150.43,Indonesia
+Afforestation,593.12,Gold Standard,2019,In-house,2178.83,India
+Afforestation,443.33,Gold Standard,2023,Marketplace,1589.54,Kenya
+Renewable Energy,488.43,Verified Carbon Standard,2019,Marketplace,2036.81,USA
+Blue Carbon,77.73,Verra,2024,Third-party,121.07,Germany
+Blue Carbon,857.56,Verra,2020,Third-party,2385.21,Indonesia
+Biochar,795.2,Carbon Plan,2019,Third-party,499.14,India
+Afforestation,845.43,Gold Standard,2021,Marketplace,3735.48,Kenya
+Biochar,672.51,Carbon Plan,2019,Third-party,2439.38,Indonesia
+Soil Carbon Sequestration,369.46,Plan Vivo,2020,Third-party,485.23,USA
+Cookstove Distribution,200.58,Verified Carbon Standard,2021,Marketplace,687.73,Indonesia
+Renewable Energy,325.49,Verified Carbon Standard,2023,Marketplace,1165.24,USA
+Soil Carbon Sequestration,93.37,Plan Vivo,2023,Marketplace,304.65,Kenya
+Methane Capture,576.52,Gold Standard,2021,Marketplace,1264.57,USA
+Cookstove Distribution,118.71,Verified Carbon Standard,2019,In-house,478.18,USA
+Biochar,797.19,Carbon Plan,2021,Third-party,3345.03,USA
+Cookstove Distribution,251.89,Verified Carbon Standard,2021,In-house,929.58,India
+Blue Carbon,888.15,Verra,2024,In-house,1589.35,Kenya
+Carbon Capture and Storage,234.01,ISO 14064-2,2020,In-house,784.3,Indonesia
+Carbon Capture and Storage,69.84,ISO 14064-2,2021,Marketplace,288.75,USA
+Biochar,717.58,Carbon Plan,2024,In-house,2602.14,Indonesia
+Blue Carbon,769.82,Verra,2020,Third-party,3562.8,India
+Carbon Capture and Storage,986.31,ISO 14064-2,2023,In-house,3749.37,Brazil
+Renewable Energy,82.1,Verified Carbon Standard,2019,In-house,332.51,India
+Renewable Energy,406.24,Verified Carbon Standard,2019,Marketplace,1716.95,Germany
+Methane Capture,930.68,Gold Standard,2020,In-house,2415.29,India
+Afforestation,794.93,Gold Standard,2024,In-house,638.96,Brazil
+Soil Carbon Sequestration,972.75,Plan Vivo,2024,Third-party,1092.05,Brazil
+Carbon Capture and Storage,638.22,ISO 14064-2,2020,Marketplace,2482.14,USA
+Methane Capture,561.06,Gold Standard,2021,Third-party,2121.0,India
+Cookstove Distribution,538.94,Verified Carbon Standard,2021,In-house,1420.32,Germany
+Methane Capture,535.04,Gold Standard,2019,Third-party,2459.54,Germany
+Renewable Energy,472.12,Verified Carbon Standard,2024,Marketplace,1493.03,Germany
+Afforestation,467.22,Gold Standard,2020,Third-party,451.01,Kenya
+Blue Carbon,237.86,Verra,2023,Marketplace,643.72,USA
+Methane Capture,618.14,Gold Standard,2023,In-house,602.84,Germany
+Carbon Capture and Storage,799.5,ISO 14064-2,2022,Third-party,2864.79,Germany
+Biochar,285.45,Carbon Plan,2019,In-house,788.19,Germany
+Methane Capture,524.47,Gold Standard,2023,In-house,781.5,USA
+Cookstove Distribution,737.38,Verified Carbon Standard,2019,Marketplace,3551.08,Germany
+Methane Capture,638.45,Gold Standard,2024,Marketplace,2842.28,USA
+Afforestation,553.28,Gold Standard,2024,In-house,2467.69,Indonesia
+Carbon Capture and Storage,779.63,ISO 14064-2,2023,In-house,3878.69,Kenya
+Cookstove Distribution,565.28,Verified Carbon Standard,2024,In-house,360.83,India
+Carbon Capture and Storage,146.49,ISO 14064-2,2021,Marketplace,700.63,USA
+Carbon Capture and Storage,27.96,ISO 14064-2,2019,Marketplace,69.96,Germany
+Cookstove Distribution,528.61,Verified Carbon Standard,2024,Third-party,721.3,Brazil
+Afforestation,177.84,Gold Standard,2024,Marketplace,471.16,Germany
+Biochar,548.72,Carbon Plan,2020,Third-party,2624.68,Germany
+Carbon Capture and Storage,536.81,ISO 14064-2,2020,Marketplace,2369.21,Brazil
+Cookstove Distribution,437.13,Verified Carbon Standard,2023,Marketplace,928.89,Brazil
+Cookstove Distribution,91.97,Verified Carbon Standard,2019,Marketplace,143.67,Germany
+Carbon Capture and Storage,49.19,ISO 14064-2,2020,In-house,167.62,Indonesia
+Methane Capture,406.78,Gold Standard,2022,Marketplace,1722.0,Indonesia
+Afforestation,73.27,Gold Standard,2020,Third-party,349.21,India
+Cookstove Distribution,265.6,Verified Carbon Standard,2022,Marketplace,298.93,India
+Cookstove Distribution,185.72,Verified Carbon Standard,2023,Third-party,256.71,Germany
+Carbon Capture and Storage,673.26,ISO 14064-2,2023,Marketplace,1134.23,India
+Renewable Energy,631.88,Verified Carbon Standard,2024,Third-party,1869.77,Indonesia
+Blue Carbon,411.69,Verra,2019,In-house,1184.76,Indonesia
+Renewable Energy,439.55,Verified Carbon Standard,2019,In-house,1285.28,Kenya
+Methane Capture,925.52,Gold Standard,2023,In-house,2906.76,Indonesia
+Afforestation,544.39,Gold Standard,2022,In-house,1881.91,USA
+Renewable Energy,328.03,Verified Carbon Standard,2023,Third-party,704.73,Germany
+Carbon Capture and Storage,429.69,ISO 14064-2,2020,Marketplace,1277.12,USA

@@ -1,0 +1,3 @@
+category,subcategory,value,unit,emission_factor,scope
+Energy,Electricity,1000,kWh,0.0009,Scope 2
+Transport,Car,500,km,0.21,Scope 3
