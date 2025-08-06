@@ -7,7 +7,7 @@ def show_charts(df):
         st.warning("⚠️ 'emissions' column not found in the uploaded data.")
         return
 
-    # Choose a valid column to group by
+    # Dynamically choose grouping column
     for group_col in ["category", "subcategory", "scope"]:
         if group_col in df.columns:
             st.subheader(f"📊 Emissions by {group_col.capitalize()}")
@@ -15,8 +15,9 @@ def show_charts(df):
             st.plotly_chart(px.bar(grouped, x=group_col, y="emissions"))
             break
     else:
-        st.warning("⚠️ No valid grouping column found (expected: category, subcategory, or scope).")
+        st.warning("⚠️ No valid column to group by (e.g. 'category', 'subcategory', or 'scope').")
 
+    # Pie chart by scope (if exists)
     if "scope" in df.columns:
         pie = df.groupby("scope")["emissions"].sum().reset_index()
         st.subheader("🎯 Emissions by Scope")
